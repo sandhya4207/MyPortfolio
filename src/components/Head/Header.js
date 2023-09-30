@@ -1,7 +1,7 @@
 import React,{useState} from "react";
 import "./header.css";
 import logo from "../pic/S2.png";
-import SamplePDF from "../pic/Sandhya Rekha_Full Stack Profile.pdf";
+import SamplePDF from "../pic/Sandhya Rekha-JavaFullStack_Developer.pdf";
 const Header = () => {
 
     //toggle menu
